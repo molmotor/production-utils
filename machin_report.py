@@ -28,6 +28,9 @@ checked_machines = 0
 total_parts = 0
 total_defective_parts = 0
 
+
+
+
 while True:
     parts_produced = check_user_input("Enter the amount of parts the machine produced: ")
     if parts_produced == 0:
